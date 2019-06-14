@@ -1,4 +1,3 @@
 # Mockups May 14
 
-
-work in progress
+Check the mockups folder and create a pixel perfect clone!
